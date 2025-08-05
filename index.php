@@ -45,7 +45,11 @@
   </main>
 
   <?php include('components/footer.php'); ?>
-
+  <script src="js/main.js"></script>
+<button id="scrollTopBtn" title="Înapoi sus">↑</button>
 
 </body>
+<div class="promo-bar">
+  🎉 Comandă online și primești 10% reducere! 🎉
+</div>
 </html>
