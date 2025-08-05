@@ -1,5 +1,4 @@
 <?php include('components/navbar.php'); ?>
-<?php include('components/head.php'); ?>
 
 <main>
   <section class="form-container">

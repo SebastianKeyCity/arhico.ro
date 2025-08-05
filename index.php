@@ -10,7 +10,7 @@
   <main>
     <section id="hero" class="hero">
       <div class="hero-content">
-        <h1>Bun venit la Arhico</h1> #deploy
+        <h1>Bun venit la Arhico</h1>
         <p>Gustul evenimentelor locale, zilnic în farfuria ta.</p>
         <a href="meniu.php" class="btn btn-primary">Vezi Meniul</a>
       </div>
@@ -45,11 +45,7 @@
   </main>
 
   <?php include('components/footer.php'); ?>
-  <script src="js/main.js"></script>
-<button id="scrollTopBtn" title="Înapoi sus">↑</button>
+
 
 </body>
-<div class="promo-bar">
-  🎉 Comandă online și primești 10% reducere! 🎉
-</div>
 </html>
