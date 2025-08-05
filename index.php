@@ -10,7 +10,7 @@
   <main>
     <section id="hero" class="hero">
       <div class="hero-content">
-        <h1>Bun venit la Arhico</h1>
+        <h1>Bun venit la Arhico rr</h1>
         <p>Gustul evenimentelor locale, zilnic în farfuria ta.</p>
         <a href="meniu.php" class="btn btn-primary">Vezi Meniul</a>
       </div>
